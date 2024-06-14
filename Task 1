@@ -1,0 +1,21 @@
+// Define the pin where the LED is connected
+int ledPin = 13;
+
+// Interval for blinking in milliseconds (e.g., 1000 ms = 1 second),we can change blinking interval also
+int blinkInterval = 1000;
+
+void setup() {
+  // Initialize the digital pin as  output.
+  pinMode(ledPin, OUTPUT);
+}
+
+void loop() {
+  // Turn the LED on
+  digitalWrite(ledPin, HIGH);
+  // Wait for the specified interval
+  delay(blinkInterval);
+  // Turn the LED off
+  digitalWrite(ledPin, LOW);
+  // Wait for the specified interval
+  delay(blinkInterval);
+}
