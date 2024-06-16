@@ -30,9 +30,9 @@ The main objective of this project is to understand the basics of embedded progr
 4. **Simulation**: Simulate the circuit and code in Tinkercad to verify functionality.
 
 #### Technologies Used
-- **Arduino Board (Virtual)**: The microcontroller used to control the LED in the Tinkercad simulation.
-- **LED (Virtual)**: The light-emitting diode controlled in the Tinkercad simulation.
-- **Arduino IDE (Online)**: The integrated development environment used to write the code for the Arduino board in Tinkercad.
+- **Arduino Board**: The microcontroller used to control the LED in the Tinkercad simulation.
+- **LED**: The light-emitting diode controlled in the Tinkercad simulation.
+- **Arduino IDE**: The integrated development environment used to write the code for the Arduino board in Tinkercad.
 - **Tinkercad**: An online platform for 3D design, electronics, and coding, used to simulate the project.
 
 #### Components Needed (Virtual)
