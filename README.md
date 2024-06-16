@@ -1,4 +1,4 @@
-![Screenshot 2024-06-10 192951](https://github.com/lokeswarkota/CODETECH-TASK-1/assets/172287217/6dc37852-80ec-4080-9469-d7700c4d7439)
+
 
 
 **NAME**      = KOTA LOKESWAR
@@ -17,6 +17,9 @@
 ## PROJECT OVERVIEW
 
 ### Title: LED Blinking with Arduino
+
+
+![Screenshot 2024-06-10 192951](https://github.com/lokeswarkota/CODETECH-TASK-1/assets/172287217/6dc37852-80ec-4080-9469-d7700c4d7439)
 
 #### Description
 This project involves programming an Arduino board to blink an LED at a specific interval. It serves as an introduction to basic embedded programming concepts and interfacing with hardware. This project was completed entirely online using Tinkercad, a platform for 3D design, electronics, and coding.
