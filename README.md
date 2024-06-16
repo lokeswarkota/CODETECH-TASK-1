@@ -1,3 +1,4 @@
+![Screenshot 2024-06-10 192951](https://github.com/lokeswarkota/CODETECH-TASK-1/assets/172287217/6dc37852-80ec-4080-9469-d7700c4d7439)
 
 
 **NAME**      = KOTA LOKESWAR
